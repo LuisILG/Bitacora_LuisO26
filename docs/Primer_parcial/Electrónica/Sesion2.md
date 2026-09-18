@@ -1,12 +1,12 @@
 ---
-titulo: "Sesión 1 — Prender un LED"
+titulo: "Sesión 2 — Prender un LED"
 fecha: 2026-08-28
 autor: "Luis Ignacio Lozano González"
 equipo: "N/A"
-estado: borrador   
+estado: completa   
 ---
 
-# Sesión 1 — **Prender un LED**
+# Sesión 2 — **Prender un LED**
 
 ## Qué debía lograr hoy
 
@@ -28,7 +28,9 @@ estado: borrador
 
 ## Qué hice y qué pasó (evidencia)
 
+<img src="../../recursos/imgs/led1.jpeg" alt="Montaje del circuito electrónico en protoboard para la realización de la práctica y medición de las señales." width="250">
 
+<img src="../../recursos/imgs/osciloscopio1.jpeg" alt="Visualización de la señal generada por el circuito mediante un osciloscopio, mostrando su frecuencia y período." width="250">
 
 ## Qué falló y cómo lo resolví
 

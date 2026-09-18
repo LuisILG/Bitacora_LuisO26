@@ -1,12 +1,12 @@
 ---
-titulo: "Sesión 2 — Primer acercamiento ESP32"
+titulo: "Sesión 3 — Primer acercamiento ESP32"
 fecha: 2026-09-04
 autor: "Luis Ignacio Lozano González"
 equipo: "N/A"
 estado: completa   # borrador | completa
 ---
 
-# Sesión 2 — Primer acercamiento ESP32
+# Sesión 3 — Primer acercamiento ESP32
 
 ## Qué debía lograr hoy
 
@@ -27,11 +27,11 @@ estado: completa   # borrador | completa
 
 ## Qué hice y qué pasó (evidencia)
 
-<img src="../recursos/imgs/Sesion2_1.jpeg" alt="Montaje del circuito en protoboard utilizando la placa ESP32 y un LED." width="250">
+<img src="../../recursos/imgs/Sesion2_1.jpeg" alt="Montaje del circuito en protoboard utilizando la placa ESP32 y un LED." width="250">
 
-<img src="../recursos/imgs/Sesion2_2.jpeg" alt="Conexión del botón pulsador al ESP32 para controlar la señal de entrada del circuito." width="250">
+<img src="../../recursos/imgs/Sesion2_2.jpeg" alt="Conexión del botón pulsador al ESP32 para controlar la señal de entrada del circuito." width="250">
 
-<img src="../recursos/imgs/Sesion2_3.jpeg" alt="Prueba de funcionamiento del circuito mediante el monitor serial, observando los estados “SI” y “NO” al accionar el botón." width="250">
+<img src="../../recursos/imgs/Sesion2_3.jpeg" alt="Prueba de funcionamiento del circuito mediante el monitor serial, observando los estados “SI” y “NO” al accionar el botón." width="250">
 
 
 ## Qué falló y cómo lo resolví
