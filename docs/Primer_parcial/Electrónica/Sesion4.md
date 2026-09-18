@@ -26,7 +26,7 @@ estado: completa   # borrador | completa
 
 <img src="../../recursos/imgs/Sesion4_1.jpeg" alt="Simulación del circuito de control de dos motores de corriente directa mediante un Arduino Uno y un controlador L293D, alimentado con una batería de 9 V." width="250">
 
-<img src="../../recursos/imgs/Sesión4_2.jpeg" alt="Código de programación en Arduino utilizado para controlar el funcionamiento y sentido de giro de los motores del circuito." width="250">
+<img src="../../recursos/imgs/Sesion4_2.jpeg" alt="Código de programación en Arduino utilizado para controlar el funcionamiento y sentido de giro de los motores del circuito." width="250">
 
 
 ## Qué falló y cómo lo resolví
