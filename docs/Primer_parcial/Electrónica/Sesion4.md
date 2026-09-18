@@ -24,7 +24,7 @@ estado: completa   # borrador | completa
 ## Qué hice y qué pasó (evidencia)
 
 
-<img src="../../../recursos/imgs/Sesion4_1.jpeg" alt="Simulación del circuito de control de dos motores de corriente directa mediante un Arduino Uno y un controlador L293D, alimentado con una batería de 9 V." width="250">
+<img src="../../../recursos/imgs/Sesion4_1.jpeg" alt="Simulación del circuito de control de dos motores de corriente directa mediante un Arduino Uno y un controlador L293D, alimentado con una batería de 9 V." width="450">
 
 *Simulación del circuito de control de dos motores de corriente directa mediante un Arduino Uno y un controlador L293D, alimentado con una batería de 9 V.*
 
