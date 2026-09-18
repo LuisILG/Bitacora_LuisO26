@@ -15,9 +15,8 @@ Copia los objetivos de la sesión y márcalos al final. Sé honesto: un ❌ expl
 - [✅] Aprender a usar Github y sus comandos
 
 ## Qué usé
-Lista corta: componentes y software. Si compraste algo, pon el costo.
 
-- Laptop Lenovo ThinkPad
+- Laptop Propia
 - Visual Studio Code
 - Github
 
@@ -28,53 +27,17 @@ Si mediste algo, va la tabla — la tabla ES la evidencia.*
 ![Pie de foto: qué muestra esta imagen](img/sesionN_1.jpg)
 
 ## Qué falló y cómo lo resolví
-*Mínimo una. Si de verdad nada falló, escribe qué te sorprendió.
-Formato: síntoma → cómo lo encontré → solución.*
 
-- *Síntoma:* ...
-- *Cómo lo encontré:* ...
-- *Solución:* ...
+
+- ***Síntoma:*** No cargaba la página
+
+- ***Cómo lo encontré:*** Me di cuenta que un par de comandos estaban ejecutandose mal en el archivo principal, ocasionando que la página no cargara
+
+- ***Solución:*** Localizé los errores de los comandos y arreglé el orden y la estructura, logrando que funcionara la página porfin.
 
 ## Qué aprendí
-3 a 5 líneas, con tus palabras. No es resumen del tema: es qué entendiste TÚ que antes no.
+En esta sesión aprendí que tener un portafolio o una bitácora es importante para poder tener un registro de lo que sesión a sesión se consigue y aprende, por eso gracias a la ayuda del profesor logré hacer la página de mi portafolio web que me ayudará en un futuro a poder ser más organizado y analizar todas mis sesiones.
 
 ## Siguiente paso
 Una línea: qué sigue antes de la próxima sesión.
-
-
-### ¿Quién soy yo?
-
-**¡Hola!**, Yo soy *Luis* aunque para mis amigos me llamo ***Luigi***   
-`(Ni idea porqué pero desde pequeño me llaman así)`
-
-Me suele gustar mucho el aprender cosas nuevas, cosa en lo que soy bueno ya que aprendo muy rápidamente y por eso suelo destacar en:
-- Matemáticas
-- Programación
-- CualquierCosaDondeAprendesCosasQueLaGenteSueleDecirQueEsDificil
-
-Y la verdad me gusta quien soy, porque suelo enfocarme mucho en ayudar a los demás y poder motivarlos a seguir adelante con todo sin pedir absolutamente nada a cambio 
- 
-`(Aunque si me dan chocolate no estaría mal jsjs)`
-
-### Otras cosas que me gustan...
-
-- Chocolate
-- Videojuegos
-- Chocolate
-- Dormir
-- Jugar con mi perro
-- Molestar a mi perro
-- Chocolate
-- La música
-- ¿Yá mencioné el Chocolate?
-
----
-
-### ¿Qué me llamó de la mecatrónica?
-
-Lo que llamó mi atención de mecatrónica fue principalmente las formas de automatiar diferentes cosas, y como antes yo ya tenía interés en una ingeniería pues opté por ir a esta carrera, además hay ciertos aspectos que me gustaban de por sí de la carrera como:
-
-- Aprender a programar y automatizar
-- Construir Artefactos y robots
-- Poder aprender a crear y solucionar problemas fácilmente
 
