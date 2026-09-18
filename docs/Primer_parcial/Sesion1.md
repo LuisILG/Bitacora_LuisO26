@@ -14,4 +14,4 @@ Fueron varias razones pero principalmente:
 - También me llama la atención la robótica y la programación por lo que elegí Mecatrónica como la carrera indicada para mi.
 
 
-<img src="../recursos/imgs/Yo.jpg" alt="Foto del creador de este portafolio Web" width="250">
+<img src="../../recursos/imgs/Yo.jpg" alt="Foto del creador de este portafolio Web" width="250">
