@@ -3,7 +3,7 @@ titulo: "Sesión 2 — Primer acercamiento ESP32"
 fecha: 2026-09-04
 autor: "Luis Ignacio Lozano González"
 equipo: "N/A"
-estado: borrador   # borrador | completa
+estado: completa   # borrador | completa
 ---
 
 # Sesión 2 — Primer acercamiento ESP32
@@ -48,4 +48,4 @@ descubrí que el LED no funcionaba del todo bien y a veces no prendía cuando de
 En la sesión 2 entendí que los microcontroladores son importantes a la hora de empezar a programar debido a que estos nos facilitan y nos permiten hacer cosas que antes sin ellos no podíamos, como poder conectarlo a nuestro celular y poder ver como hay distintas lecturas que se procesan a través de este microcontrolador.
 
 ## Siguiente paso
-Una línea: qué sigue antes de la próxima sesión.
+Practicar y experimentar con las capacidades de los microcontroladores
