@@ -28,9 +28,13 @@ estado: completa
 
 ## Qué hice y qué pasó (evidencia)
 
-<img src="../../recursos/imgs/led1.jpeg" alt="Montaje del circuito electrónico en protoboard para la realización de la práctica y medición de las señales." width="250">
+<img src="../../../recursos/imgs/led1.jpeg" alt="Montaje del circuito electrónico en protoboard para la realización de la práctica y medición de las señales." width="250">
 
-<img src="../../recursos/imgs/osciloscopio1.jpeg" alt="Visualización de la señal generada por el circuito mediante un osciloscopio, mostrando su frecuencia y período." width="250">
+*Montaje del circuito electrónico en protoboard para la realización de la práctica y medición de las señales.*
+
+<img src="../../../recursos/imgs/osciloscopio1.jpeg" alt="Visualización de la señal generada por el circuito mediante un osciloscopio, mostrando su frecuencia y período." width="250">
+
+*Visualización de la señal generada por el circuito mediante un osciloscopio, mostrando su frecuencia y período.*
 
 ## Qué falló y cómo lo resolví
 

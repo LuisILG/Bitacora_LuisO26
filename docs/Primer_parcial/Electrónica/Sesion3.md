@@ -27,11 +27,17 @@ estado: completa   # borrador | completa
 
 ## Qué hice y qué pasó (evidencia)
 
-<img src="../../recursos/imgs/Sesion2_1.jpeg" alt="Montaje del circuito en protoboard utilizando la placa ESP32 y un LED." width="250">
+<img src="../../../recursos/imgs/Sesion2_1.jpeg" alt="Montaje del circuito en protoboard utilizando la placa ESP32 y un LED." width="250">
 
-<img src="../../recursos/imgs/Sesion2_2.jpeg" alt="Conexión del botón pulsador al ESP32 para controlar la señal de entrada del circuito." width="250">
+*Montaje del circuito en protoboard utilizando la placa ESP32 y un LED.*
 
-<img src="../../recursos/imgs/Sesion2_3.jpeg" alt="Prueba de funcionamiento del circuito mediante el monitor serial, observando los estados “SI” y “NO” al accionar el botón." width="250">
+<img src="../../../recursos/imgs/Sesion2_2.jpeg" alt="Conexión del botón pulsador al ESP32 para controlar la señal de entrada del circuito." width="250">
+
+*Conexión del botón pulsador al ESP32 para controlar la señal de entrada del circuito.*
+
+<img src="../../../recursos/imgs/Sesion2_3.jpeg" alt="Prueba de funcionamiento del circuito mediante el monitor serial, observando los estados “SI” y “NO” al accionar el botón." width="250">
+
+*Prueba de funcionamiento del circuito mediante el monitor serial, observando los estados “SI” y “NO” al accionar el botón.*
 
 
 ## Qué falló y cómo lo resolví

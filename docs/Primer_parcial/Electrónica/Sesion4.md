@@ -24,9 +24,83 @@ estado: completa   # borrador | completa
 ## Qué hice y qué pasó (evidencia)
 
 
-<img src="../../recursos/imgs/Sesion4_1.jpeg" alt="Simulación del circuito de control de dos motores de corriente directa mediante un Arduino Uno y un controlador L293D, alimentado con una batería de 9 V." width="250">
+<img src="../../../recursos/imgs/Sesion4_1.jpeg" alt="Simulación del circuito de control de dos motores de corriente directa mediante un Arduino Uno y un controlador L293D, alimentado con una batería de 9 V." width="250">
 
-<img src="../../recursos/imgs/Sesion4_2.jpeg" alt="Código de programación en Arduino utilizado para controlar el funcionamiento y sentido de giro de los motores del circuito." width="250">
+*Simulación del circuito de control de dos motores de corriente directa mediante un Arduino Uno y un controlador L293D, alimentado con una batería de 9 V.*
+
+```C++
+// C++ code
+//
+#include <Servo.h>
+
+Servo Oliver;
+
+void adelante(){
+  digitalWrite(6, HIGH);
+  digitalWrite(7, LOW);
+  digitalWrite(3, HIGH);
+  digitalWrite(4, LOW);
+}
+
+void atras(){
+  digitalWrite(7, HIGH);
+  digitalWrite(6, LOW);
+  digitalWrite(4, HIGH);
+  digitalWrite(3, LOW);
+}
+
+void der(){
+  digitalWrite(6, HIGH);
+  digitalWrite(7, LOW);
+  digitalWrite(4, HIGH);
+  digitalWrite(3, LOW);
+}
+void izq(){
+  digitalWrite(7, HIGH);
+  digitalWrite(6, LOW);
+  digitalWrite(3, HIGH);
+  digitalWrite(4, LOW);
+}
+
+
+
+void setup()
+{
+  //SERVO
+  Oliver.attach(9);
+  
+  //MOTOR1
+  pinMode(6,OUTPUT);//OUT1
+  pinMode(7,OUTPUT);//OUT2
+  pinMode(5,OUTPUT);//ENABLE
+  digitalWrite(5, HIGH);
+  
+  //MOTOR2
+  pinMode(4,OUTPUT);
+  pinMode(3,OUTPUT);
+  pinMode(2,OUTPUT);
+  digitalWrite(2, HIGH);
+}
+
+void loop()
+{
+  Oliver.write(0);
+  delay(1000);
+  adelante();
+  delay(1000);
+  atras();
+  delay(1000);
+  Oliver.write(90);
+  delay(1000);
+  der();
+  delay(1000);
+  izq();
+  Oliver.write(180);
+  delay(1000);
+}
+```
+
+*Código de programación en Arduino utilizado para controlar el funcionamiento y sentido de giro de los motores del circuito.*
 
 
 ## Qué falló y cómo lo resolví
