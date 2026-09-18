@@ -1,8 +1,8 @@
 ---
-titulo: "Sesión N — Título corto"
-fecha: YYYY-MM-DD
-autor: "Nombre"
-equipo: "Nombre del equipo (si aplica)"
+titulo: "Sesión 3 — Título corto"
+fecha: 2026-09-11
+autor: "Luis Ignacio Lozano González"
+equipo: "N/A"
 estado: borrador   # borrador | completa
 ---
 

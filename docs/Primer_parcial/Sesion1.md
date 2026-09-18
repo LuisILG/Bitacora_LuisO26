@@ -1,6 +1,6 @@
 ---
 titulo: "Sesión 1 — **Cómo documenté mi portafolio web**"
-fecha: 2026-09-04
+fecha: 2026-08-28
 autor: "Luis Ignacio Lozano González"
 equipo: "N/A"
 estado: borrador   
@@ -11,13 +11,16 @@ estado: borrador
 ## Qué debía lograr hoy
 Copia los objetivos de la sesión y márcalos al final. Sé honesto: un ❌ explicado vale más que un ✅ falso.
 
-- [✅] Aprender a crear un portafolio
-- [✅] Aprender a usar Github y sus comandos
+- [ ] Aprender a crear un portafolio
+- [ ] Aprender a usar Visual Studio Code
+- [ ] Aprender a usar Git y sus comandos
+
 
 ## Qué usé
 
 - Laptop Propia
 - Visual Studio Code
+- Git
 - Github
 
 ## Qué hice y qué pasó (evidencia)
