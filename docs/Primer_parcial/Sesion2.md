@@ -9,7 +9,6 @@ estado: borrador   # borrador | completa
 # Sesión 2 — Primer acercamiento ESP32
 
 ## Qué debía lograr hoy
-Copia los objetivos de la sesión y márcalos al final. Sé honesto: un ❌ explicado vale más que un ✅ falso.
 
 - [ ] Configurar el entorno de desarrollo del ESP32
 - [ ] Controlar entradas y salidas digitales (LED, botón con pull-up y antirrebote)
@@ -36,15 +35,17 @@ Copia los objetivos de la sesión y márcalos al final. Sé honesto: un ❌ expl
 
 
 ## Qué falló y cómo lo resolví
-*Mínimo una. Si de verdad nada falló, escribe qué te sorprendió.
-Formato: síntoma → cómo lo encontré → solución.*
 
-- ***Síntoma:*** ...
-- ***Cómo lo encontré:*** ...
-- ***Solución:*** ...
+- ***Síntoma:*** El LED dejó de funcionar correctamente
+
+- ***Cómo lo encontré:*** Después de experimentar y probar, 
+descubrí que el LED no funcionaba del todo bien y a veces no prendía cuando debía o al revés, se apagaba cuando no debía.
+
+- ***Solución:*** Busqué si era fallas en el cableado o en la programación y me dí cuenta que el programa tenía un error de estructura, lo solucione rehaciendo esa parte del programa y al cargarlo de nuevo funcionó correctamente.
 
 ## Qué aprendí
-3 a 5 líneas, con tus palabras. No es resumen del tema: es qué entendiste TÚ que antes no.
+
+En la sesión 2 entendí que los microcontroladores son importantes a la hora de empezar a programar debido a que estos nos facilitan y nos permiten hacer cosas que antes sin ellos no podíamos, como poder conectarlo a nuestro celular y poder ver como hay distintas lecturas que se procesan a través de este microcontrolador.
 
 ## Siguiente paso
 Una línea: qué sigue antes de la próxima sesión.

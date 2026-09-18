@@ -9,7 +9,6 @@ estado: borrador
 # Sesión 1 — **El portafolio web**
 
 ## Qué debía lograr hoy
-Copia los objetivos de la sesión y márcalos al final. Sé honesto: un ❌ explicado vale más que un ✅ falso.
 
 - [ ] Aprender a crear un portafolio
 - [ ] Aprender a usar Visual Studio Code
@@ -24,8 +23,6 @@ Copia los objetivos de la sesión y márcalos al final. Sé honesto: un ❌ expl
 - Github
 
 ## Qué hice y qué pasó (evidencia)
-*2–4 fotos o capturas TUYAS, cada una con un pie de foto de una línea diciendo qué muestra.
-Si mediste algo, va la tabla — la tabla ES la evidencia.*
 
 ![Pie de foto: qué muestra esta imagen](img/sesionN_1.jpg)
 
