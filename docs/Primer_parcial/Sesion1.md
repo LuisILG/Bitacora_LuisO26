@@ -18,3 +18,24 @@ Fueron varias razones pero principalmente:
 
 ---
 
+### Comandos Git
+```Git
+git pull
+```
+*Aplica los cambios hechos en la página web directo al archivo.*
+
+```Git
+git add .
+```
+*Prepara los cambios hechos en el archivo para publicarse.*
+
+```Git
+git commit -m "Cambio"
+```
+*Guarda los cambios hechos en el archivo.*
+
+```Git
+git push
+```
+
+*Publica los cambios hechos en el archivo.*
