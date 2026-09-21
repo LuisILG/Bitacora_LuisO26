@@ -15,3 +15,6 @@ Fueron varias razones pero principalmente:
 
 
 <img src="../../recursos/imgs/Yo.jpg" alt="Foto del creador de este portafolio Web" width="250">
+
+---
+

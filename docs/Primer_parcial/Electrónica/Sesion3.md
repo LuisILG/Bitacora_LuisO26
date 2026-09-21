@@ -39,6 +39,77 @@ estado: completa   # borrador | completa
 
 *Prueba de funcionamiento del circuito mediante el monitor serial, observando los estados “SI” y “NO” al accionar el botón.*
 
+```C++
+// C++ code
+//
+
+void setup()
+{
+ pinMode(LED, OUTPUT); // Configura el pin del LED como salida
+
+}
+
+void loop()
+{
+ digitalWrite(LED, HIGH); // Enciende el LED
+ delay(1000); // Espera 1 segundo
+ digitalWrite(LED, LOW); // Apaga el LED
+ delay(1000); // Espera 1 segundo
+}
+```
+
+
+*Código de programación en Arduino utilizado para hacer parpadear el LED.*
+
+```C++
+    // C++ code
+//
+
+void setup() {
+    pinMode(LED, OUTPUT);
+    pinMode(BUTTON, INPUT_PULLUP); 
+}
+
+void loop() {
+    if (digitalRead(BUTTON) == 0) {
+        digitalWrite(LED, 1);
+    } else {
+        digitalWrite(LED, 0);
+    }
+}
+```
+
+*Código de programación en Arduino utilizado para hacer prender el LED mediante un botón.*
+
+```C++
+// C++ code
+//
+#include "BluetoothSerial.h"
+BluetoothSerial SerialBT;
+
+#define LED 23
+
+void setup() {
+    Serial.begin(115200);
+    SerialBT.begin("ESP32");
+    SerialBT.setTimeout(20);
+    pinMode(LED, OUTPUT);
+}
+
+void loop() {
+    if (SerialBT.available()) {
+        String mensaje = SerialBT.readStringUntil('\n');
+        mensaje.trim();
+        if (mensaje == "ON") {
+            digitalWrite(LED, 1);
+        } else if (mensaje == "OFF") {
+            digitalWrite(LED, 0);
+        }
+    }
+}
+```
+
+*Código de programación en Arduino utilizado para hacer prender el LED mediante BlueTooth*
 
 ## Qué falló y cómo lo resolví
 

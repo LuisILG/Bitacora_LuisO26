@@ -2,12 +2,9 @@
 
 **Bienvenido** 👋  
 
-Este es mi poortafolio web donde registrare las sesiones
+Este es mi portafolio web donde registrare las sesiones
 
 ---
-
-- Punto 1
-- Punto 2
 
 ![Diagrama del sistema](recursos/imgs/ibero.jpeg)
 
@@ -18,3 +15,4 @@ Este es mi poortafolio web donde registrare las sesiones
    site_name: Portafolio de Evidencias
    theme:
      name: material
+
